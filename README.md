@@ -37,6 +37,16 @@ It’s a small but complete monitoring system you can reuse for any HTTP endpoin
 
 ---
 
+### 📊 Example CloudWatch Dashboard
+
+Below is the generated CloudWatch dashboard showing latency, availability, and overall endpoint health:
+
+![CloudWatch Dashboard Example](docs/dashboard-example.png)
+
+
+
+---
+
 ## 🚀 What this project demonstrates
 
 - How to **emit custom metrics** from Lambda to CloudWatch
